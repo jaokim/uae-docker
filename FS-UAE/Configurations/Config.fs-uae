@@ -1,0 +1,18 @@
+# FS-UAE configuration saved by FS-UAE Launcher
+# Last saved: 2018-08-19 14:36:35
+
+[fs-uae]
+accelerator = cyberstorm-ppc
+accuracy = -1
+amiga_model = A4000/OS4
+cdrom_drive_0_delay = 1
+chip_memory = 2048
+hard_drive_0 = /root/FS-UAE/Hard Drives/os41.hdf
+#network_card = a2065
+graphics_card = picasso-iv
+graphics_memory = 16384
+slirp_implementation = builtin
+#auto
+uae_a2065 = slirp
+zorro_iii_memory = 524288
+uae_sound_output = interrupts
